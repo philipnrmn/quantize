@@ -1,0 +1,33 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 75px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-body {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.App-column {
+  min-width: 500px;
+  flex: 1;
+}
+
+.App-column-header {
+  background: #222;
+  color: white;
+  margin: 0;
+}
